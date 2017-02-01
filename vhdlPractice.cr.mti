@@ -1,0 +1,96 @@
+/home/samuel/Documents/vhdlPractice/fsm.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/fsm.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fsm
+-- Compiling architecture BHV of fsm
+
+} {} {}} /home/samuel/Documents/vhdlPractice/reg.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture BHV of reg
+
+} {} {}} /home/samuel/Documents/vhdlPractice/reg_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/reg_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg_tb
+-- Compiling architecture TB of reg_tb
+-- Loading entity reg
+
+} {} {}} /home/samuel/Documents/vhdlPractice/delay.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/delay.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity delay
+-- Compiling architecture BHV of delay
+-- Loading entity reg
+
+} {} {}} /home/samuel/Documents/vhdlPractice/mux2_1test.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/mux2_1test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux2_1test
+-- Compiling architecture TB of mux2_1test
+-- Loading entity mux2_1
+
+} {} {}} /home/samuel/Documents/vhdlPractice/mux2_1.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/mux2_1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_1
+-- Compiling architecture BHV of mux2_1
+
+} {} {}} /home/samuel/Documents/vhdlPractice/adder.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture BHV1 of adder
+-- Compiling architecture BHV2 of adder
+-- Loading entity adder
+
+} {} {}} /home/samuel/Documents/vhdlPractice/delay_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/delay_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity delay_tb
+-- Compiling architecture TB of delay_tb
+-- Loading entity delay
+
+} {} {}} /home/samuel/Documents/vhdlPractice/counter.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/counter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling entity counter
+-- Compiling architecture BHV of counter
+
+} {} {}} /home/samuel/Documents/vhdlPractice/counter_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/samuel/Documents/vhdlPractice/counter_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter_tb
+-- Compiling architecture TB of counter_tb
+-- Loading package MATH_REAL
+-- Loading entity counter
+
+} {} {}}

@@ -1,0 +1,481 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/samuel/intelFPGA/16.1/modelsim_ase/linuxaloem
+Eadder
+Z0 w1485872570
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 d/home/samuel/Documents/vhdlPractice
+Z5 8/home/samuel/Documents/vhdlPractice/adder.vhd
+Z6 F/home/samuel/Documents/vhdlPractice/adder.vhd
+l0
+L7
+V0bi2LU:o[nnB9_=n3e:k83
+!s100 6MJJiNSFnzSJ>@?C8mNZa2
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1485879071
+!i10b 1
+Z9 !s108 1485879071.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/adder.vhd|
+Z11 !s107 /home/samuel/Documents/vhdlPractice/adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abhv2
+R1
+R2
+R3
+Z14 DEx4 work 5 adder 0 22 0bi2LU:o[nnB9_=n3e:k83
+l35
+L33
+VjgXb620AUL;H1g5hMbYV[2
+!s100 LVKOjUl3fS3DAhmadakB<2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abhv1
+R1
+R2
+R3
+R14
+l24
+L19
+V0IM4UzZf3Lk[TVCj5FYJZ3
+!s100 oI=VK0LiH9M[`jTO]9FS^1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecounter
+Z15 w1485880019
+Z16 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R1
+R2
+R3
+R4
+Z17 8/home/samuel/Documents/vhdlPractice/counter.vhd
+Z18 F/home/samuel/Documents/vhdlPractice/counter.vhd
+l0
+L8
+Vna?ecdcTkLC6VcbPzU02@1
+!s100 GQP?fac2ViU6knT[[9]6C2
+R7
+32
+Z19 !s110 1485880026
+!i10b 1
+Z20 !s108 1485880026.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/counter.vhd|
+Z22 !s107 /home/samuel/Documents/vhdlPractice/counter.vhd|
+!i113 1
+R12
+R13
+Abhv
+R16
+R1
+R2
+R3
+Z23 DEx4 work 7 counter 0 22 na?ecdcTkLC6VcbPzU02@1
+l24
+L20
+VbB2=QRTUnnG:WaYe;C[ec3
+!s100 WHHz?]j22W;0m`DL2CU?`2
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+R13
+Ecounter_tb
+Z24 w1485880103
+R1
+R2
+R3
+R4
+Z25 8/home/samuel/Documents/vhdlPractice/counter_tb.vhd
+Z26 F/home/samuel/Documents/vhdlPractice/counter_tb.vhd
+l0
+L8
+Vd6j0LfS`UfC?>YLRSGcX01
+!s100 ;jmXdL_LYQIoh:Kn;[X=Z3
+R7
+32
+Z27 !s110 1485915995
+!i10b 1
+Z28 !s108 1485915995.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/counter_tb.vhd|
+Z30 !s107 /home/samuel/Documents/vhdlPractice/counter_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R16
+R23
+R1
+R2
+R3
+DEx4 work 10 counter_tb 0 22 d6j0LfS`UfC?>YLRSGcX01
+l22
+L13
+V`T2ZX0Anohmf>obMAYVid3
+!s100 VQNGORnRaPID_N<KGa9lI3
+R7
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R12
+R13
+Edelay
+Z31 w1485875279
+R2
+R3
+R4
+Z32 8/home/samuel/Documents/vhdlPractice/delay.vhd
+Z33 F/home/samuel/Documents/vhdlPractice/delay.vhd
+l0
+L6
+VGE<cBT25bO:KaO_ZXN7?m3
+!s100 @V8;3aZUYW0d2Z5D7V5g63
+R7
+32
+Z34 !s110 1485879072
+!i10b 1
+R9
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/delay.vhd|
+Z36 !s107 /home/samuel/Documents/vhdlPractice/delay.vhd|
+!i113 1
+R12
+R13
+Abhv
+Z37 DEx4 work 3 reg 0 22 660OX>9]L]Rh89c5[[8PQ2
+R2
+R3
+Z38 DEx4 work 5 delay 0 22 GE<cBT25bO:KaO_ZXN7?m3
+l25
+L19
+V[gHc:<JB=Moki^PEF:She0
+!s100 bjkPdbM3OHZ5m]o=WgRJ;0
+R7
+32
+R34
+!i10b 1
+R9
+R35
+R36
+!i113 1
+R12
+R13
+Edelay_tb
+Z39 w1485877213
+R1
+R2
+R3
+R4
+Z40 8/home/samuel/Documents/vhdlPractice/delay_tb.vhd
+Z41 F/home/samuel/Documents/vhdlPractice/delay_tb.vhd
+l0
+L7
+Vd<c;UDWeSMHi0cM0SzH=D1
+!s100 JJ@RQ=dn]gJOmlLnY@4CD1
+R7
+32
+R34
+!i10b 1
+Z42 !s108 1485879072.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/delay_tb.vhd|
+Z44 !s107 /home/samuel/Documents/vhdlPractice/delay_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R38
+R1
+R2
+R3
+DEx4 work 8 delay_tb 0 22 d<c;UDWeSMHi0cM0SzH=D1
+l23
+L14
+V]1]7o[_;IE[P]T?noN?af2
+!s100 af?8`jU<m_LkMza^]CRg10
+R7
+32
+R34
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R12
+R13
+Efsm
+Z45 w1485916019
+R2
+R3
+R4
+Z46 8/home/samuel/Documents/vhdlPractice/fsm.vhd
+Z47 F/home/samuel/Documents/vhdlPractice/fsm.vhd
+l0
+L7
+VKiAAX51eccM81:angVN390
+!s100 7;^ZJj`_ol`fi]Bd>1BLD3
+R7
+32
+Z48 !s110 1485916022
+!i10b 1
+Z49 !s108 1485916022.000000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/fsm.vhd|
+Z51 !s107 /home/samuel/Documents/vhdlPractice/fsm.vhd|
+!i113 1
+R12
+R13
+Abhv
+R2
+R3
+Z52 DEx4 work 3 fsm 0 22 KiAAX51eccM81:angVN390
+l22
+L16
+Vi80zB[6aKBYn486ZcM=n>2
+!s100 8EWOJE8;YNfhXHH=`@ZzK1
+R7
+32
+R48
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R12
+R13
+Efsm_tb
+Z53 w1485917160
+R1
+R2
+R3
+R4
+Z54 8/home/samuel/Documents/vhdlPractice/fsm_TB.vhd
+Z55 F/home/samuel/Documents/vhdlPractice/fsm_TB.vhd
+l0
+L6
+VFR4zb^ei4gk;WE?BOYLPb2
+!s100 U4TPE8Ic5e><ORK6=IG:i1
+R7
+32
+Z56 !s110 1485917165
+!i10b 1
+Z57 !s108 1485917165.000000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/fsm_TB.vhd|
+Z59 !s107 /home/samuel/Documents/vhdlPractice/fsm_TB.vhd|
+!i113 1
+R12
+R13
+Atb
+R52
+R1
+R2
+R3
+Z60 DEx4 work 6 fsm_tb 0 22 FR4zb^ei4gk;WE?BOYLPb2
+l15
+L9
+VEhL;Zc;`S`Z]2K31dOM0O3
+!s100 UDmUBlCS@V27MDG3Bn=3R1
+R7
+32
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 1
+R12
+R13
+Emux2_1
+Z61 w1485743519
+R2
+R3
+R4
+Z62 8/home/samuel/Documents/vhdlPractice/mux2_1.vhd
+Z63 F/home/samuel/Documents/vhdlPractice/mux2_1.vhd
+l0
+L5
+VXQW376=SNTFig=QA<ohA<1
+!s100 Z;XBBLDaWz5?T]ZDlf1`?3
+R7
+32
+R8
+!i10b 1
+R9
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/mux2_1.vhd|
+Z65 !s107 /home/samuel/Documents/vhdlPractice/mux2_1.vhd|
+!i113 1
+R12
+R13
+Abhv
+R2
+R3
+Z66 DEx4 work 6 mux2_1 0 22 XQW376=SNTFig=QA<ohA<1
+l17
+L16
+V=GglK9nR;T@Xe`AblzHDf2
+!s100 a1MoK?]ECDf75SK:Q_CX]1
+R7
+32
+R8
+!i10b 1
+R9
+R64
+R65
+!i113 1
+R12
+R13
+Emux2_1test
+Z67 w1485745138
+R1
+R2
+R3
+R4
+Z68 8/home/samuel/Documents/vhdlPractice/mux2_1test.vhd
+Z69 F/home/samuel/Documents/vhdlPractice/mux2_1test.vhd
+l0
+L5
+V3Kjk?njFo:fm@36VkCf1D2
+!s100 ;iQCS2NEm5Df70SUWYX0g1
+R7
+32
+R8
+!i10b 1
+R9
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/mux2_1test.vhd|
+Z71 !s107 /home/samuel/Documents/vhdlPractice/mux2_1test.vhd|
+!i113 1
+R12
+R13
+Atb
+R66
+R1
+R2
+R3
+DEx4 work 10 mux2_1test 0 22 3Kjk?njFo:fm@36VkCf1D2
+l14
+L8
+VVmK<QRI=286?2PQ=TYXc11
+!s100 TJ]67Qll3nb0C_:[1CF6b1
+R7
+32
+R8
+!i10b 1
+R9
+R70
+R71
+!i113 1
+R12
+R13
+Ereg
+Z72 w1485833763
+R2
+R3
+R4
+Z73 8/home/samuel/Documents/vhdlPractice/reg.vhd
+Z74 F/home/samuel/Documents/vhdlPractice/reg.vhd
+l0
+L6
+V660OX>9]L]Rh89c5[[8PQ2
+!s100 `>5EIiHahhk^D80aL@S813
+R7
+32
+R8
+!i10b 1
+R9
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/reg.vhd|
+Z76 !s107 /home/samuel/Documents/vhdlPractice/reg.vhd|
+!i113 1
+R12
+R13
+Abhv
+R2
+R3
+R37
+l19
+L17
+VVNS8bm=5a`_U>0VYPkdO50
+!s100 od_4[_;OA5A7_:?8lGIPn2
+R7
+32
+R8
+!i10b 1
+R9
+R75
+R76
+!i113 1
+R12
+R13
+Ereg_tb
+Z77 w1485879068
+R1
+R2
+R3
+R4
+Z78 8/home/samuel/Documents/vhdlPractice/reg_tb.vhd
+Z79 F/home/samuel/Documents/vhdlPractice/reg_tb.vhd
+l0
+L8
+VGo[i4l<VAQ5N^dDPi>YRA0
+!s100 c7UmKPjEF5MaEXQNL16fT1
+R7
+32
+R34
+!i10b 1
+R42
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/samuel/Documents/vhdlPractice/reg_tb.vhd|
+Z81 !s107 /home/samuel/Documents/vhdlPractice/reg_tb.vhd|
+!i113 1
+R12
+R13
+Atb
+R37
+R1
+R2
+R3
+DEx4 work 6 reg_tb 0 22 Go[i4l<VAQ5N^dDPi>YRA0
+l21
+L13
+VKRgcSOPW5M6<:>MkY_`kE0
+!s100 g4hJf>kZJ5N3`6AmRRddn3
+R7
+32
+R34
+!i10b 1
+R42
+R80
+R81
+!i113 1
+R12
+R13
